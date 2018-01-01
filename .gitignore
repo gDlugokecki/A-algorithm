@@ -30,4 +30,7 @@
 *.exe
 *.out
 *.app
+*.tlog
 
+/FinalAStar/FinalAStar/Debug/FinalAStar.tlog/FinalAStar.lastbuildstate
+/FinalAStar/FinalAStar/Debug/FinalAStar.tlog/CL.command.1.tlog
